@@ -1,0 +1,16 @@
+{
+ "SAL351_01": "Localizei uma substância muito\nsemelhante ao material usado na bola\nde cristal da vidente... Ela deve servir\ncomo substituta adequada.\nDevo chamar o robô para coletá-la?\n[[1:0:FFFF]]Sim.[[1:1:0000]]Agora não.",
+ "SAL351_02": "Sim, [[1:12:00000005]]Mestre. Se mudar de ideia e\ndecidir prosseguir com este assunto,\nexamine-a novamente.",
+ "SAL351_03": "[[1:12:00000005]]Mestre, enviarei uma mensagem ao robô\npor transmissão telepática.",
+ "SAL351_04": "[[1:12:00000064]]Senhorita Fi! Estou aquiiiii, zrrpt!\n\n\n\nAh. Quer que eu carregue isto, bzzt?",
+ "SAL351_05": "[[1:12:00000064]]Estarei esperando vocês no céu, então\nnão demorem, vrrt!!",
+ "SAL351_06": "[[1:12:00000001]]Mestre, sugiro que também voltemos ao\ncéu e recolhamos a bola de cristal o\nquanto antes.",
+ "SAL351_07": "[[1:12:00000064]]Ei, Mestre Calça-Curta! Por que você\nsempre fica com os trabalhos fáceis,\nzrrpt?",
+ "SAL351_10": "[[1:9:00000009]]Nos encontramos de novo, hein? Preciso\nte agradecer pela ajuda da outra vez!\n\n\nÉ que eu ando procurando novos pontos\nde tesouro, mas não acho nem uma\nbugiganga, nem um tiquinho de tesouro.\n\nVai ver é só que estou ficando tonto de\ntrabalhar tanto tempo neste calor.\n\n\n[[1:9:00000005]]Às vezes eu queria achar um emprego\nque combinasse mesmo com os meus\ntalentos, sabe... algo num clima\nfresquinho. Aí eu estava feito!\n[[1:0:FFFF]]Conheço um lugar![[1:1:FFFF]]Continue sonhando.",
+ "SAL351_10_01": "[[1:9:00000004]]Então você conhece um lugar com um\ntrabalho em que eu me daria bem?\n\n\nE fica no céu?!\n...\n...\nEU ADORO O CÉU!\nOnde eu me inscrevo?[[1:4:000A]] Estou falando,\nestou dentro! Vamos nessa![[1:4:000A]]",
+ "SAL351_10_02": "[[1:9:00000008]]Certo...[[1:4:000A]] Bem, é, acho que posso tentar\naguentar mais um tempinho...",
+ "SAL351_10_03": "As capacidades deste indivíduo\ncorrespondem perfeitamente aos tipos\nde tarefa esperados de um funcionário\nda Abóbora Encaroçada.\nDeseja chamar o robô e transportar este\nindivíduo?\n[[1:0:FFFF]]Sim.[[1:1:0000]]Não.",
+ "SAL351_10_04": "[[1:9:00000004]]Ei, qual é a sua?! Você disse que me\nlevaria para o céu, mas depois desistiu\ndo nosso trato! E agora estou de volta\naqui.\nSe vai fazer uma promessa dessas, é\nmelhor cumprir!",
+ "SAL351_11": "[[1:12:00000001]]Mestre, sugiro que também voltemos ao\ncéu e acompanhemos o Mogma até o\ndestino dele o mais rápido possível.",
+ "SAL351_12": "[[1:12:00000064]]Não precisa falar duas vezes, zrrbt!"
+}

@@ -1,0 +1,21 @@
+{
+ "TOWN6_00": "Ora, ora, amigo! Que sorte a sua! Você\nacaba de topar comigo, o infame\n[[0:3:0003]]Mercador do Luar[[0:3:FFFF]]!\n\nNem pergunte como consigo as minhas\nmercadorias, porque não vou contar!\n\n\nSe tem alguma bugiganga rara que você\nestá louco para ter, eu posso conhecer\numa pedra que conhece uma pedra que\nconsegue para você... por um preço!",
+ "TOWN6_01": "Mas... mas! Antes de sair sacando suas\nRupias, saiba que as minhas\nmercadorias custam caro.\n\nQuem vem até mim geralmente não\ngosta de juntar tesouros por conta\nprópria, ou simplesmente não consegue\njuntar o que precisa. Tem certeza de\nque é para você?\n[[1:0:FFFF]]Tenho![[1:1:0000]]De jeito nenhum.",
+ "TOWN6_02": "Excelente! Então me diga, que tipo de\ntesouro você está procurando?\n[[1:0:FFFF]][[2:1:00AE]][[1:1:FFFF]][[2:1:00AF]][[1:2:FFFF]][[2:1:00B0]][[1:3:0000]]Outro.",
+ "TOWN6_03": "Outra coisa, é? Bem, algum destes\ndesperta o seu interesse?\n[[1:0:FFFF]][[2:1:00A8]][[1:1:FFFF]][[2:1:00AD]][[1:2:FFFF]][[2:1:00AB]][[1:3:0000]]Outro.",
+ "TOWN6_12": "Sinto muito, amigo, é tudo o que tenho\npara vender no momento. Se nenhum\ndeles serviu, vai ter que encontrar o\nque procura por conta própria!",
+ "TOWN6_03_01": "Certo, uma [[2:1:00AE]]\nsaindo! Por [[0:3:0000]]200 Rupias[[0:3:FFFF]], é toda sua!\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_03_02": "Certo, uma [[2:1:00AF]] saindo!\nEsta belezinha é toda sua por apenas\n[[0:3:0000]]200 Rupias[[0:3:FFFF]].\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_03_03": "Certo, uma [[2:1:00B0]] saindo! Vai\ncustar só [[0:3:0000]]200 Rupias[[0:3:FFFF]], amigo.\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_03_04": "Certo, uma [[2:1:00A8]]\nsaindo! É uma pechincha por apenas\n[[0:3:0000]]100 Rupias[[0:3:FFFF]].\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_03_05": "Certo, um [[2:1:00AD]] saindo!\nPor [[0:3:0000]]100 Rupias[[0:3:FFFF]] é todo seu!\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_03_06": "Certo, um [[2:1:00AB]] saindo!\nPor [[0:3:0000]]100 Rupias[[0:3:FFFF]] é todo seu!\n[[1:0:FFFF]]Fechado![[1:1:0000]]Muito caro.",
+ "TOWN6_04": "Tudo bem, então. Quem anda na linha\nfaz melhor em não se misturar com um\nsujeito suspeito como eu, mesmo. Sabe\ncomo é, né?",
+ "TOWN6_05": "Ah, por favoooor, essa eu já ouvi. Você\ndiz que é caro demais. Eu digo que\nprovavelmente não queria tanto assim,\nsenão soltava a grana!",
+ "TOWN6_06": "E negócio fechado! Aqui está o seu\ntesouro nada suspeito!",
+ "TOWN6_07": "Hum. Parece que está faltando uns\ntrocados aí, amigo. Fazer o quê. Quando\njuntar as Rupias, você sabe que vou\nestar aqui.",
+ "TOWN6_08": "Tomara que a compra corresponda às\nsuas expectativas, camarada! Se der\nvontade de comprar mais tesouros, você\njá sabe com que pedra falar.",
+ "TOWN6_09": "Ora, ora, amigo! Que sorte a sua! Você\nacaba de topar com um dos m—[[1:4:0014]] Ah. Você\nde novo. Veio comprar tesouro ou o\nquê?\n[[1:0:FFFF]]Sim![[1:1:0000]]Não...",
+ "TOWN6_10": "Então você quer comprar, é?\n[[1:0:FFFF]]Por favor![[1:1:0000]]Não...",
+ "TOWN6_11": "Você é esquisito, vindo até aqui em\ncima.\n\n\nEi, se você tentasse [[0:3:0004]]mergulhar[[0:3:FFFF]] da\nbeirada aqui, aposto que cairia no\nninho no alto da torre lá embaixo. Mas\no que eu sei? Sou uma pedra."
+}

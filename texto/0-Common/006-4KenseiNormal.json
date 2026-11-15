@@ -1,0 +1,11 @@
+{
+ "KEN4_000": "Seus corações diminuíram de forma\nbastante drástica. Recupere um pouco\nde vida na primeira oportunidade.[[1:C:00060192]]",
+ "KEN4_000_2": "Você optou pelo [[0:3:0000]]Modo Herói[[0:3:FFFF]], portanto\ncorações e flores de coração não\naparecerão. Recomendo utilizar poções.",
+ "KEN4_001": "A integridade do seu escudo\nenfraqueceu. Fique atento à\ndurabilidade restante deste item.",
+ "KEN4_002": "",
+ "KEN4_003": "",
+ "KEN4_004": "Seus corações diminuíram de forma\nbastante drástica. Recupere um pouco\nde vida na primeira oportunidade.\n\nPara garantir que você consiga\nencontrar mais [[0:3:0005]]corações[[0:3:FFFF]] quando\nprecisar, eles agora estão disponíveis\ncomo alvo da sua habilidade de\n[[0:3:0004]]radiestesia [[0:3:FFFF]].[[1:B:00000004]]",
+ "KEN4_004_2": "Segure [[2:4:22CD]] e escolha [[0:3:0005]]corações [[0:3:FFFF]]no\ncírculo de objetos para defini-los como\nseu alvo atual. [[1:11:08CD]]Esse recurso deve se\nmostrar bastante útil.",
+ "KEN4_004_3": "Você optou pelo [[0:3:0000]]Modo Herói[[0:3:FFFF]], portanto\ncorações e flores de coração não\naparecerão.\n\nPorém, se você optar por levar a\n[[0:3:0005]][[2:1:0064]][[0:3:FFFF]], então [[1:B:00000004]]corações e\nflores de coração [[0:3:0000]]terão chance de\naparecer[[0:3:FFFF]].",
+ "KEN4_005": "[[1:12:00000001]]Mestre, sua carteira está cheia. Você\nnão poderá coletar mais Rupias do que\njá carrega."
+}

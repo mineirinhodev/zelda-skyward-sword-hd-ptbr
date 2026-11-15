@@ -1,0 +1,9 @@
+{
+ "HEI_SAL_01": "Esta é a [[0:3:0000]]Hélice do Moinho [[0:3:FFFF]]que você\nestava procurando.\n\n\nAgora é possível recuperá-la usando o\nrobô cujos serviços contratamos.\n\n\nGostaria que eu chamasse o robô?\n[[1:0:FFFF]]Sim.[[1:1:0000]]Não.",
+ "HEI_SAL_01_01": "Entendido, [[1:12:00000005]]Mestre. Se mudar de ideia e\nquiser recuperá-la, examine-a\nnovamente.",
+ "HEI_SAL_01_02": "Enviarei uma mensagem ao robô por\ntransmissão telepática, [[1:12:00000005]]Mestre.",
+ "HEI_SAL_02": "[[1:12:00000064]]Senhorita Fi! Espero que não tenha\nesperado muito, bzzzt!\n\n\nEntão, zrrrbt, quer que eu carregue\nisto?!",
+ "HEI_SAL_03": "[[1:12:00000064]]Vou esperar por vocês lá no céu, então\nnão demorem muito, vrrrt!",
+ "HEI_SAL_04": "[[1:12:00000001]]Mestre, sugiro que também retornemos\nao céu e recolhamos a hélice o mais\nrápido possível.",
+ "HEI_SAL_05": "[[1:12:00000064]]Ei! Mestre Calça-Curta! Você está no\nmeu caminho, zrrpt! Eu disse, saia da\nfrente, vrrrrrt!"
+}

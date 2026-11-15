@@ -1,0 +1,10 @@
+{
+ "SAL451_01": "Identifiquei o item que o homem...\naltamente incomum da Ilha da Diversão\ndiz ter perdido.\n\nPodemos chamar o robô da Loja de\nSucata para vir buscá-lo. Gostaria que\neu chamasse o robô?\n[[1:0:FFFF]]Sim![[1:1:0000]]Não, obrigado.",
+ "SAL452_02": "Sim, [[1:12:00000005]]Mestre. Se mudar de ideia e\ndecidir recuperá-lo, examine-o\nnovamente.",
+ "SAL452_03": "[[1:12:00000005]]Mestre, enviarei uma mensagem ao robô\npor transmissão telepática.",
+ "SAL452_04": "[[1:12:00000064]]Senhorita Fi, zrrpt! A senhorita\nchamou?\n\n\nUau, zrrft... Este lugar parece\nestranhamente familiar, brrzrrt...\n\n\nBzzzt, então quer que eu carregue esta\ncoisa?",
+ "SAL452_05": "[[1:12:00000064]]Vou esperar vocês no céu, então não\ndemorem, vrrt!",
+ "SAL452_06": "[[1:12:00000001]]Mestre, sugiro voltarmos ao céu e\ndevolvermos esta roda da festa ao seu\ndono o mais rápido possível.",
+ "SAL452_07": "[[1:12:00000064]]Certo, certo, zrrft... Fique aí quietinho\ne não atrapalhe, Mestre Calça-Curta,\nbzzzt!",
+ "SAL451_06": "Identifiquei o item que o homem\nincomum da Ilha da Diversão diz ter\nperdido.\n\nEm circunstâncias normais, poderíamos\nchamar o robô da Loja de Sucata para\nvir buscá-lo.\n\nContudo, o robô está atualmente\ncumprindo algumas tarefas no Vulcão\nde Eldin, então não podemos chamá-lo\naté aqui.\nRecomendo voltar ao Vulcão de Eldin e\nverificar a situação do robô."
+}

@@ -1,0 +1,19 @@
+{
+ "F_SAL_01": "Só consigo confirmar com 40% de\nprecisão que este indivíduo é uma\nplanta. No entanto, o campo de estudo\nde [[0:3:0003]]Owlan[[0:3:FFFF]] inclui catalogar espécies de\nplantas não identificadas.\n\n\n\nPodemos levar esta criatura a Skyloft\nusando o robô. Deseja chamar o robô?\n[[1:0:FFFF]]Por favor![[1:1:0000]]Não, obrigado.",
+ "F_SAL_01_01": "Sim, [[1:12:00000005]]Mestre. Basta inspecionar o\nespécime novamente se mudar de ideia\ne quiser levá-lo a Skyloft.",
+ "F_SAL_01_02": "Sim, [[1:12:00000005]]Mestre. Vou sinalizar ao robô com\numa transmissão telepática.",
+ "F_SAL_02": "[[1:12:00000064]]Senhorita Fi! Espero que não tenha\nesperado muito, bzzzzat! Então quer\nque eu carregue isto, zrrbt?",
+ "F_SAL_03": "Estarei esperando por você lá no céu,\nentão não demore, vrrrt!",
+ "F_SAL_04": "[[1:12:00000001]]Mestre, sugiro que também voltemos ao\ncéu e levemos o Kikwi ao seu destino o\nquanto antes.",
+ "F_SAL_05": "[[1:12:00000064]]Vamos! Vamos! Zrrppt! Ter que dizer\nisso toda vez reduz a minha eficiência\ngeral, brrzt!",
+ "F_SAL_MORY01": "[[1:9:00000001]]Oh, olá de novo, kweek! Fiquei\nescondido por tanto tempo que meus\nombros estão duros.\n[[1:0:FFFF]]Que ombros?[[1:1:FFFF]]Coitadinho.",
+ "F_SAL_MORY02": "[[1:9:00090014]]Que grosseria! Eu tenho ombros, sim,\nkweek, só não são muito pronunciados!\n\n\n[[1:9:00070011]]Eu só queria dizer que viver se\nescondendo do perigo o tempo todo é\nmuito estressante, koo-keek!",
+ "F_SAL_MORY06": "[[1:9:00070011]]Isso mesmo, kwee! Ficar parado no\nmesmo lugar o tempo todo, sem nunca\nsaber quando o perigo vai\naparecer...kook. Você não faz ideia de\ncomo é!",
+ "F_SAL_MORY03": "[[1:9:00090013]]Aposto que ainda há montes de\nmonstros horríveis por aí esperando\npara me arranhar e fazer maldades,\nkoo-weep!\n[[1:9:00070004]]Nós, Kikwis, temos que passar a vida\ninteira nos escondendo assim só para\nsobreviver, kwee-koo!",
+ "F_SAL_MORY03_2": "[[1:9:00090013]]Todo mundo parece feliz porque a paz\nvoltou à floresta... Mas eu não acredito\nnem por um segundo, koo-kakoo!\n\n[[1:9:00070004]]Não vou desistir e sair do esconderijo\nde jeito nenhum. Nunca, kee-woop!",
+ "F_SAL_MORY04": "[[1:9:00090005]]Mas às vezes eu me pergunto,\nkeep-eep... Será que não existe um lugar\ntranquilo onde eu possa viver sem\nmedo, sem precisar me esconder?\n[[1:0:FFFF]]Existe![[1:1:FFFF]]Posso ajudar.",
+ "F_SAL_MORY05": "[[1:9:00060007]]Oh! Que notícia fantástica, koo-karoo!\nQuero que me leve para lá o mais\nrápido possível!",
+ "F_SAL_MORY07": "[[1:9:00070014]]Que audácia a sua, ko-ko-ko! Como\nousa prometer me levar para os céus,\nkee-roo, e de repente mudar de ideia!\n\n[[1:9:00090013]]Fiquei tão triste pensando que eu nunca\niria me estabelecer num lugar seguro,\nkee-reep!",
+ "F_SAL_MORY08": "[[1:9:00070004]]Então! Dessa vez, me leve com você,\nka-koo!\n\n\n[[1:9:00000001]]Kee-karoo! Não me decepcione!",
+ "F_SAL_MORY09": "[[1:9:00070003]]Leve-me para um lugar tranquilo onde\neu possa viver em paz sem precisar me\nesconder, kee-roo!\n\n[[1:9:00000001]]Estou contando com você, keek-eep!"
+}
